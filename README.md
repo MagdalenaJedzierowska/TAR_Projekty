@@ -1,4 +1,4 @@
-## Testowanie aplikacji w Ruby, [Magdalena Jędzierowska](magdalena.jedzierowska@gmail.com)
+## Testowanie aplikacji w Ruby, [magdalena.jedzierowska@gmail.com]
 
 1. [ ] [Notatki z Ruby](ruby.md)
 2. [ ] [Notatki z RSpec](rspec.md)
